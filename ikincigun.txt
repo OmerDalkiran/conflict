@@ -8,3 +8,4 @@ Artik yol aliyoruz ins.
 baska seyler
 8. satir Branch yaptik yeni ve conflikt yapmaya calisiyoruz.
 
+bu sefer bakalim nolcak
